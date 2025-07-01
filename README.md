@@ -1,2 +1,2 @@
 # chaoxiOJ
-An online code submission and automated evaluation platform that supports multiple programming languages, is designed with a microservice architecture, and its core modules include topic management, code submission, sandbox evaluation, asynchronous problem judgment, etc
+一个支持多种编程语言的在线代码提交与自动化评测平台，采用微服务架构设计，核心模块包括题目管理、代码提交、沙箱评测、异步判题等.
